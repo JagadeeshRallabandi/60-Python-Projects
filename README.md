@@ -92,4 +92,4 @@ Welcome to my Python Projects Repository! This repository contains a collection 
 Each project has its own directory with a README file explaining how to run the project. Navigate to the respective project directory and follow the instructions provided.
 
 ## Contact
-If you have any questions or feedback, feel free to reach out to me at [your-email@example.com](mailto:rjagadeeshnit@egmail.com).
+If you have any questions or feedback, feel free to reach out to me at [rjagadeeshnit@gmail.com](mailto:rjagadeeshnit@egmail.com).
