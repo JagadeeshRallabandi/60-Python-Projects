@@ -1,7 +1,3 @@
-Got it! Here’s the revised README file without the contributors and license sections:
-
----
-
 # Python Projects Repository
 
 Welcome to my Python Projects Repository! This repository contains a collection of 60 Python projects that I have completed. These projects range from basic to advanced levels, showcasing my skills and experiences in various aspects of Python programming.
@@ -81,7 +77,7 @@ Welcome to my Python Projects Repository! This repository contains a collection 
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/JagadeeshRallabandi/60-Python-Projects.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -97,7 +93,3 @@ Each project has its own directory with a README file explaining how to run the 
 
 ## Contact
 If you have any questions or feedback, feel free to reach out to me at [your-email@example.com](mailto:rjagadeeshnit@egmail.com).
-
----
-
-Please replace "your-github-link" and "your-username/your-repo-name" with the actual link to your GitHub profile and repository name, respectively, and customize it further as needed.
