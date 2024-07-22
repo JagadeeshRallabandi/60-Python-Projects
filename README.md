@@ -1,10 +1,11 @@
+### README File
 # Python Projects Repository
 
 Welcome to my Python Projects Repository! This repository contains a collection of 60 Python projects that I have completed. These projects range from basic to advanced levels, showcasing my skills and experiences in various aspects of Python programming.
 
 ## Projects Overview
 
-### Basic Projects (14)
+### Basic Projects (1-14)
 1. Acronyms using Python (AUP)
 2. Alarm Clock with Python (ACP)
 3. Email Slicer with Python (ESP)
@@ -20,53 +21,53 @@ Welcome to my Python Projects Repository! This repository contains a collection 
 13. Taking Multiple User Inputs (TMUI)
 14. Convert Roman Numbers to Decimals (CRND)
 
-### Advanced Projects (46)
-1. Advanced Web Scraper
-2. Weather App with API
-3. Sentiment Analysis
-4. Twitter Bot
-5. News Aggregator
-6. Stock Market Analysis
-7. Machine Learning Model
-8. Image Recognition
-9. Face Mask Detection
-10. Chatbot with NLP
-11. Speech Recognition
-12. Voice Assistant
-13. Personal Finance Manager
-14. Real-time Data Dashboard
-15. Expense Tracker with GUI
-16. Task Manager with GUI
-17. Library Management System
-18. E-commerce Web Scraper
-19. Web Automation with Selenium
-20. Data Analysis with Pandas
-21. Flask Web Application
-22. Django Web Application
-23. REST API with Flask
-24. REST API with Django
-25. Blog Application
-26. Portfolio Website
-27. Image Filter Application
-28. Video Processing with OpenCV
-29. Object Detection with OpenCV
-30. GUI Application with Tkinter
-31. GUI Application with PyQt
-32. Multiplayer Game
-33. Online Quiz Application
-34. Automated Email Response System
-35. IoT with Raspberry Pi
-36. Smart Home Automation
-37. AI-based Recommendation System
-38. Natural Language Processing
-39. Genetic Algorithms
-40. Reinforcement Learning
-41. Blockchain Implementation
-42. Cryptocurrency Price Tracker
-43. Automated Testing Suite
-44. Data Encryption and Decryption
-45. Cybersecurity Tool
-46. Game Development with Pygame
+### Advanced Projects (15-60)
+15. Digital Clock GUI
+16. Get Desktop Notifications with Python
+17. Use Your Phone Camera for Computer Vision
+18. Music Player GUI
+19. Game of Life with Python
+20. Extract Text from Videos
+21. Fidget Spinner Game
+22. Spelling Correction with Python
+23. Create Amazing Graphics with Python
+24. Monty Hall Simulator
+25. Video to Audio Converter
+26. Tic Tac Toe GUI
+27. Calculator GUI
+28. Number Guessing Game
+29. Image Converter GUI
+30. Weight Converter GUI
+31. Visualize a Chess Board with Python
+32. Age and Gender Detection
+33. Bar Code and QR Code Reader
+34. Create Audiobook with Python
+35. Face Detection
+36. Extract Text from PDF
+37. Card Game using DS and Algo
+38. Web Scraper with Python
+39. Create a Pencil Sketch using Python
+40. Text Editor GUI
+41. Instagram Filters with Python
+42. Count Number of Rainy Days in a Year
+43. Send Emails with Python
+44. Image Segmentation
+45. OTP Verification System
+46. Deploy a Chatbot
+47. Create a Telegram Bot
+48. Scraping Twitter without API
+49. Text to Speech Converter
+50. Keyword Research with Python
+51. Scrape Wikipedia
+52. Web Scraping to Create a CSV
+53. Scrape Instagram
+54. Image Filtering
+55. Audio Processing
+56. Analog Clock with Python
+57. Create a Simple Chatbot
+58. Clock APP with Python
+59. 3D Graphs
+60. Calendar GUI
 
 ## Getting Started
 
