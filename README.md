@@ -1,4 +1,3 @@
-### README File
 # Python Projects Repository
 
 Welcome to my Python Projects Repository! This repository contains a collection of 60 Python projects that I have completed. These projects range from basic to advanced levels, showcasing my skills and experiences in various aspects of Python programming.
